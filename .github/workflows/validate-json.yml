@@ -6,9 +6,9 @@ name: CI
 on:
   # Triggers the workflow on push or pull request events but only for the "main" branch
   push:
-    branches: [ "main" ]
+    branches: ["main"]
   pull_request:
-    branches: [ "main" ]
+    branches: ["main"]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -29,3 +29,27 @@ jobs:
         uses: RaaLabs/validate-json@v0.0.7
         with:
           directory: .
+
+  update-i18n-source:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [18]
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Update Source Files
+        run: cp en_US.json en-US/en_US
+
+      - name: Commit Updated Source File
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: Updated i18n Source\n [ci skip]"
+          commit_user_name: "cider-chore[bot]"
+          commit_user_email: "cider-chore[bot]@users.noreply.github.com"
