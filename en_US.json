@@ -500,7 +500,7 @@
   "settings.option.visual.useAdaptiveColors.description": "Change the accent color to match the current song",
   "settings.option.visual.useAdaptiveColors.popup": "Adaptive colors will take effect on the next track.",
   "settings.option.visual.adaptiveColorPercent": "Adaptive Color Percent",
-  "settings.option.visual.playerPosition": "Layout Profile Type",
+  "settings.option.visual.playerPosition": "Player Position",
   "settings.option.visual.layoutProfile": "Layout Profile Type",
   "settings.option.visual.layoutProfile.description": "Adjust the layout of the app to your preference",
   "settings.header.visual.theme": "Theme",
