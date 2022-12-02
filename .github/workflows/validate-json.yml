@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: CI
+name: Lang-Checker
 
 # Controls when the workflow will run
 on:
@@ -16,7 +16,7 @@ on:
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
-  build:
+  check-formatting:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
@@ -25,10 +25,145 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
 
-      - name: Validate json files
+      - name: Validate CS
         uses: RaaLabs/validate-json@v0.0.7
         with:
-          directory: .
+          directory: cs/
+          
+      - name: Validate DE
+        uses: RaaLabs/validate-json@v0.0.7
+        with:
+          directory: de/
+          
+      - name: Validate EL
+        uses: RaaLabs/validate-json@v0.0.7
+        with:
+          directory: el/
+          
+      - name: Validate en-GB
+        uses: RaaLabs/validate-json@v0.0.7
+        with:
+          directory: en-GB/
+          
+      - name: Validate en-US
+        uses: RaaLabs/validate-json@v0.0.7
+        with:
+          directory: en-US/
+          
+      - name: Validate es-ES
+        uses: RaaLabs/validate-json@v0.0.7
+        with:
+          directory: es-ES/
+          
+      - name: Validate FI
+        uses: RaaLabs/validate-json@v0.0.7
+        with:
+          directory: fi/
+          
+      - name: Validate fr-CA
+        uses: RaaLabs/validate-json@v0.0.7
+        with:
+          directory: fr-CA/
+          
+      - name: Validate fr
+        uses: RaaLabs/validate-json@v0.0.7
+        with:
+          directory: fr/
+  
+      - name: Validate HI
+        uses: RaaLabs/validate-json@v0.0.7
+        with:
+          directory: hi/
+          
+      - name: Validate HU
+        uses: RaaLabs/validate-json@v0.0.7
+        with:
+          directory: hu/
+          
+      - name: Validate ID
+        uses: RaaLabs/validate-json@v0.0.7
+        with:
+          directory: id/
+      
+      - name: Validate IT
+        uses: RaaLabs/validate-json@v0.0.7
+        with:
+          directory: it/
+          
+      - name: Validate JA
+        uses: RaaLabs/validate-json@v0.0.7
+        with:
+          directory: ja/
+          
+      - name: Validate KO
+        uses: RaaLabs/validate-json@v0.0.7
+        with:
+          directory: ko/
+          
+      - name: Validate NL
+        uses: RaaLabs/validate-json@v0.0.7
+        with:
+          directory: nl/
+          
+      - name: Validate PL
+        uses: RaaLabs/validate-json@v0.0.7
+        with:
+          directory: pl/
+          
+      - name: Validate pt-BR
+        uses: RaaLabs/validate-json@v0.0.7
+        with:
+          directory: pt-BR/
+          
+      - name: Validate pt-PT
+        uses: RaaLabs/validate-json@v0.0.7
+        with:
+          directory: pt-PT/
+          
+      - name: Validate RO
+        uses: RaaLabs/validate-json@v0.0.7
+        with:
+          directory: ro/
+          
+      - name: Validate RU
+        uses: RaaLabs/validate-json@v0.0.7
+        with:
+          directory: ru/
+          
+      - name: Validate SK
+        uses: RaaLabs/validate-json@v0.0.7
+        with:
+          directory: sk/
+          
+      - name: Validate sv-SE
+        uses: RaaLabs/validate-json@v0.0.7
+        with:
+          directory: sv-SE/
+          
+      - name: Validate TR
+        uses: RaaLabs/validate-json@v0.0.7
+        with:
+          directory: tr/
+          
+      - name: Validate VI
+        uses: RaaLabs/validate-json@v0.0.7
+        with:
+          directory: vi/
+          
+      - name: Validate zh-CN
+        uses: RaaLabs/validate-json@v0.0.7
+        with:
+          directory: zh-CN/
+          
+      - name: Validate zh-HK
+        uses: RaaLabs/validate-json@v0.0.7
+        with:
+          directory: zh-HK/
+          
+      - name: Validate zh-TW
+        uses: RaaLabs/validate-json@v0.0.7
+        with:
+          directory: zh-TW/
 
   update-i18n-source:
     runs-on: ubuntu-latest
