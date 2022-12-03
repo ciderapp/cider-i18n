@@ -610,7 +610,7 @@
   "settings.header.connect": "Conectar",
   "settings.option.connect.link_account": "Habilitar sincronización con Cider Connect",
   "settings.option.connect.link_account.description": "Vincular su cuenta de Discord con Cider Connect le permite almacenar datos de usuario que incluyen configuraciones, ecualizadores y eventualmente más, una vez que haya terminado. (Trabajo en progreso)",
-  "settings.header.accounts": "Accounts",
+  "settings.header.accounts": "Cuentas",
   "spatial.notTurnedOn": "La Espacialización de audio está deshabilitada. Para usar, habilítelo primero.",
   "spatial.spatialProperties": "Propiedades de Espacialización",
   "spatial.width": "Ancho",
