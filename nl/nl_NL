@@ -2,7 +2,7 @@
   "i18n.languageName": "Nederlands",
   "i18n.languageNameEnglish": "Nederlands (NL)",
   "i18n.category": "main",
-  "i18n.authors": "@Sjoerd69",
+  "i18n.authors": "@notmaikiwi @kyw504100 @nosh118 @cryptofyre @booploops",
   "app.name": "Cider",
   "date.format": "${d}-${m}-${y}",
   "dialog.cancel": "Annuleer",
@@ -220,6 +220,11 @@
   "term.fullscreen": "Volledig scherm",
   "term.nowPlaying": "Speelt nu",
   "term.localFiles": "Local Files",
+  "home.greeting": {
+    "morning": "Good morning, ${name}",
+    "afternoon": "Good afternoon, ${name}",
+    "evening": "Good evening, ${name}"
+  },
   "home.syncFavorites": "Favorieten synchroniseren",
   "home.syncFavorites.gettingArtists": "Favoriete artiesten ophalen...",
   "home.pinnedItems": "Pinned Items",
