@@ -2,7 +2,7 @@
   "i18n.languageName": "Русский (RU)",
   "i18n.languageNameEnglish": "Russian (RU)",
   "i18n.category": "main",
-  "i18n.authors": "@h0ckerman",
+  "i18n.authors": "@notmaikiwi @kyw504100 @nosh118 @cryptofyre @booploops",
   "app.name": "Cider",
   "date.format": "${d} ${m}, ${y}",
   "dialog.cancel": "Отмена",
@@ -220,6 +220,11 @@
   "term.fullscreen": "Полный экран",
   "term.nowPlaying": "Сейчас играет",
   "term.localFiles": "Local Files",
+  "home.greeting": {
+    "morning": "Good morning, ${name}",
+    "afternoon": "Good afternoon, ${name}",
+    "evening": "Good evening, ${name}"
+  },
   "home.syncFavorites": "Синхронизировать",
   "home.syncFavorites.gettingArtists": "Получение отслеживаемых исполнителей...",
   "home.pinnedItems": "Pinned Items",
