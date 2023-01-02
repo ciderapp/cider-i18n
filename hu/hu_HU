@@ -2,7 +2,7 @@
   "i18n.languageName": "Magyar",
   "i18n.languageNameEnglish": "Hungarian",
   "i18n.category": "main",
-  "i18n.authors": "@Amaru @BenjaminStonawski",
+  "i18n.authors": "@notmaikiwi @kyw504100 @nosh118 @cryptofyre @booploops",
   "app.name": "Cider",
   "date.format": "${y} ${m} ${d}",
   "dialog.cancel": "Mégsem",
@@ -220,6 +220,11 @@
   "term.fullscreen": "Teljes képernyő",
   "term.nowPlaying": "Jelenleg lejátszás alatt",
   "term.localFiles": "Helyi fájlok",
+  "home.greeting": {
+    "morning": "Good morning, ${name}",
+    "afternoon": "Good afternoon, ${name}",
+    "evening": "Good evening, ${name}"
+  },
   "home.syncFavorites": "Kedvencek szinkronizálása",
   "home.syncFavorites.gettingArtists": "Kedvenc előadók betöltése..",
   "home.pinnedItems": "Kitűzött",
