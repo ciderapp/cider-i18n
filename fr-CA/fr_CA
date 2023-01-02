@@ -1,8 +1,8 @@
 {
   "i18n.languageName": "Français (CA)",
   "i18n.languageNameEnglish": "French (CA)",
-  "i18n.category": "main",
-  "i18n.authors": "@notmaikiwi @kyw504100 @nosh118 @cryptofyre @booploops",
+  "i18n.category": "@brock#7527",
+  "i18n.authors": "@brock#7527",
   "app.name": "Cider",
   "date.format": "${m} ${d}, ${y}",
   "dialog.cancel": "Annuler",
