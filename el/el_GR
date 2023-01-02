@@ -2,7 +2,7 @@
   "i18n.languageName": "Ελληνικά",
   "i18n.languageNameEnglish": "Greek",
   "i18n.category": "main",
-  "i18n.authors": "@down-bad",
+  "i18n.authors": "@notmaikiwi @kyw504100 @nosh118 @cryptofyre @booploops",
   "app.name": "Cider",
   "date.format": "${d} ${m}, ${y}",
   "dialog.cancel": "Ακύρωση",
@@ -220,6 +220,11 @@
   "term.fullscreen": "Πλήρης οθόνη",
   "term.nowPlaying": "Παίζει τώρα",
   "term.localFiles": "Τοπικά αρχεία",
+  "home.greeting": {
+    "morning": "Good morning, ${name}",
+    "afternoon": "Good afternoon, ${name}",
+    "evening": "Good evening, ${name}"
+  },
   "home.syncFavorites": "Συγχρονισμός αγαπημένων",
   "home.syncFavorites.gettingArtists": "Λήψη αγαπημένων καλλιτεχνών...",
   "home.pinnedItems": "Καρφιτσωμένα στοιχεία",
