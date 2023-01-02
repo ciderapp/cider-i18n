@@ -2,7 +2,7 @@
   "i18n.languageName": "Português (Brasil)",
   "i18n.languageNameEnglish": "Portuguese (Brazil)",
   "i18n.category": "main",
-  "i18n.authors": "@ArthAttack @OniiChan7765",
+  "i18n.authors": "@notmaikiwi @kyw504100 @nosh118 @cryptofyre @booploops",
   "app.name": "Cider",
   "date.format": "${d} ${m}, ${y}",
   "dialog.cancel": "Cancelar",
@@ -220,6 +220,11 @@
   "term.fullscreen": "Tela Cheia",
   "term.nowPlaying": "Tocando Agora",
   "term.localFiles": "Local Files",
+  "home.greeting": {
+    "morning": "Good morning, ${name}",
+    "afternoon": "Good afternoon, ${name}",
+    "evening": "Good evening, ${name}"
+  },
   "home.syncFavorites": "Sincronizar Favoritos",
   "home.syncFavorites.gettingArtists": "Obtendo Artistas Favoritos...",
   "home.pinnedItems": "Pinned Items",
