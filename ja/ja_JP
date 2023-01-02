@@ -2,7 +2,7 @@
   "i18n.languageName": "日本語",
   "i18n.languageNameEnglish": "Japanese",
   "i18n.category": "メイン",
-  "i18n.authors": "@notmaikiwi @tanaka_kakuel @YTJVDCM @skelato1",
+  "i18n.authors": "@notmaikiwi @kyw504100 @nosh118 @cryptofyre @booploops",
   "app.name": "Cider",
   "date.format": "${y}年${m}月${d}日",
   "dialog.cancel": "キャンセル",
@@ -220,6 +220,11 @@
   "term.fullscreen": "全画面",
   "term.nowPlaying": "再生中",
   "term.localFiles": "ローカルファイル",
+  "home.greeting": {
+    "morning": "Good morning, ${name}",
+    "afternoon": "Good afternoon, ${name}",
+    "evening": "Good evening, ${name}"
+  },
   "home.syncFavorites": "お気に入りを同期",
   "home.syncFavorites.gettingArtists": "お気に入りのアーティストを同期中...",
   "home.pinnedItems": "ピン留めされたアイテム",
