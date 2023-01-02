@@ -2,7 +2,7 @@
   "i18n.languageName": "English (UK)",
   "i18n.languageNameEnglish": "English (UK)",
   "i18n.category": "main",
-  "i18n.authors": "Core, inalone, nosh118, booploops",
+  "i18n.authors": "@notmaikiwi @kyw504100 @nosh118 @cryptofyre @booploops",
   "app.name": "Cider",
   "date.format": "${d} ${m}, ${y}",
   "dialog.cancel": "Cancel",
@@ -220,6 +220,11 @@
   "term.fullscreen": "Fullscreen",
   "term.nowPlaying": "Now Playing",
   "term.localFiles": "Local Files",
+  "home.greeting": {
+    "morning": "Good morning, ${name}",
+    "afternoon": "Good afternoon, ${name}",
+    "evening": "Good evening, ${name}"
+  },
   "home.syncFavorites": "Sync Favourites",
   "home.syncFavorites.gettingArtists": "Getting Favourited Artists...",
   "home.pinnedItems": "Pinned Items",
