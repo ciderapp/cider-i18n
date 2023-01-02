@@ -2,7 +2,7 @@
   "i18n.languageName": "Svenska (SE)",
   "i18n.languageNameEnglish": "Swedish (SE)",
   "i18n.category": "main",
-  "i18n.authors": "@thisismemeboi",
+  "i18n.authors": "@notmaikiwi @kyw504100 @nosh118 @cryptofyre @booploops",
   "app.name": "Cider",
   "date.format": "${d} ${m}, ${y}",
   "dialog.cancel": "Avbryt",
@@ -220,6 +220,11 @@
   "term.fullscreen": "Fullscreen",
   "term.nowPlaying": "Now Playing",
   "term.localFiles": "Local Files",
+  "home.greeting": {
+    "morning": "Good morning, ${name}",
+    "afternoon": "Good afternoon, ${name}",
+    "evening": "Good evening, ${name}"
+  },
   "home.syncFavorites": "Sync Favorites",
   "home.syncFavorites.gettingArtists": "Getting Favorited Artists...",
   "home.pinnedItems": "Pinned Items",
