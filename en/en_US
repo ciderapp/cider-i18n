@@ -2,7 +2,7 @@
   "i18n.languageName": "English (US)",
   "i18n.languageNameEnglish": "English (US)",
   "i18n.category": "main",
-  "i18n.authors": "@notmaikiwi @kyw504100 @nosh118 @cryptofyre @booploops",
+  "i18n.authors": "CiderCollective",
   "app.name": "Cider",
   "date.format": "${m} ${d}, ${y}",
   "dialog.cancel": "Cancel",
