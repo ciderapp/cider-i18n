@@ -2,7 +2,7 @@
   "i18n.languageName": "Українська (UA)",
   "i18n.languageNameEnglish": "Ukrainian (UA)",
   "i18n.category": "main",
-  "i18n.authors": "Saksonik",
+  "i18n.authors": "@Saksonik",
   "app.name": "Cider",
   "date.format": "${d} ${m}, ${y}",
   "dialog.cancel": "Скасувати",
