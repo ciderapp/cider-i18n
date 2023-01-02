@@ -2,7 +2,7 @@
   "i18n.languageName": "한국어 (KR)",
   "i18n.languageNameEnglish": "Korean (KR)",
   "i18n.category": "main",
-  "i18n.authors": "@Hazealign @iodes @a1100 @briantrnn",
+  "i18n.authors": "@notmaikiwi @kyw504100 @nosh118 @cryptofyre @booploops",
   "app.name": "Cider",
   "date.format": "${y}. ${m}. ${d}",
   "dialog.cancel": "취소",
@@ -220,6 +220,11 @@
   "term.fullscreen": "전체 화면",
   "term.nowPlaying": "지금 재생중",
   "term.localFiles": "로컬 파일",
+  "home.greeting": {
+    "morning": "Good morning, ${name}",
+    "afternoon": "Good afternoon, ${name}",
+    "evening": "Good evening, ${name}"
+  },
   "home.syncFavorites": "즐겨찾기 동기화",
   "home.syncFavorites.gettingArtists": "좋아하는 가수를 불러오는 중...",
   "home.pinnedItems": "고정된 항목",
