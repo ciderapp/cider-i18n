@@ -2,7 +2,7 @@
   "i18n.languageName": "Deutsch",
   "i18n.languageNameEnglish": "German",
   "i18n.category": "Allgemein",
-  "i18n.authors": "@motz0815 @n0chteil",
+  "i18n.authors": "@notmaikiwi @kyw504100 @nosh118 @cryptofyre @booploops",
   "app.name": "Cider",
   "date.format": "${d}.${m}.${y}",
   "dialog.cancel": "Abbrechen",
@@ -220,6 +220,11 @@
   "term.fullscreen": "Vollbild",
   "term.nowPlaying": "Jetzt läuft",
   "term.localFiles": "Lokale Dateien",
+  "home.greeting": {
+    "morning": "Good morning, ${name}",
+    "afternoon": "Good afternoon, ${name}",
+    "evening": "Good evening, ${name}"
+  },
   "home.syncFavorites": "Sync Favoriten",
   "home.syncFavorites.gettingArtists": "Favorisierte Künstler werden geladen...",
   "home.pinnedItems": "Angepinnte Objekte",
