@@ -2,7 +2,7 @@
   "i18n.languageName": "繁體中文（香港）",
   "i18n.languageNameEnglish": "Trad. Chinese (Hong Kong)",
   "i18n.category": "main",
-  "i18n.authors": "@kyw504100 @notmaikiwi @BillKerman @jay900604",
+  "i18n.authors": "@notmaikiwi @kyw504100 @nosh118 @cryptofyre @booploops",
   "app.name": "Cider",
   "date.format": "${y} 年 ${m} 月 ${d} 日",
   "dialog.cancel": "取消",
@@ -220,6 +220,11 @@
   "term.fullscreen": "全螢幕模式",
   "term.nowPlaying": "正在播放",
   "term.localFiles": "本機歌曲",
+  "home.greeting": {
+    "morning": "Good morning, ${name}",
+    "afternoon": "Good afternoon, ${name}",
+    "evening": "Good evening, ${name}"
+  },
   "home.syncFavorites": "同步追蹤",
   "home.syncFavorites.gettingArtists": "取得追蹤的藝人列表... ",
   "home.pinnedItems": "置頂項目",
