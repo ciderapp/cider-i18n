@@ -221,9 +221,9 @@
   "term.nowPlaying": "再生中",
   "term.localFiles": "ローカルファイル",
   "home.greeting": {
-    "morning": "Good morning, ${name}",
-    "afternoon": "Good afternoon, ${name}",
-    "evening": "Good evening, ${name}"
+    "morning": "${name}さん、おはようございます",
+    "afternoon": "${name}さん、こんにちは",
+    "evening": "${name}さん、こんばんは"
   },
   "home.syncFavorites": "お気に入りを同期",
   "home.syncFavorites.gettingArtists": "お気に入りのアーティストを同期中...",
