@@ -1,7 +1,7 @@
 {
   "i18n.languageName": "日本語",
   "i18n.languageNameEnglish": "Japanese",
-  "i18n.category": "メイン",
+  "i18n.category": "main",
   "i18n.authors": "@notmaikiwi @tanaka_kakuel @YTJVDCM @skelato1",
   "app.name": "Cider",
   "date.format": "${y}年${m}月${d}日",
