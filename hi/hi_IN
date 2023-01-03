@@ -1,7 +1,7 @@
 {
   "i18n.languageName": "हिन्दी",
   "i18n.languageNameEnglish": "Hindi",
-  "i18n.category": "मुख्य",
+  "i18n.category": "main",
   "i18n.authors": "@notmaikiwi @vringster",
   "app.name": "Cider",
   "date.format": "${m} ${d}, ${y}",
