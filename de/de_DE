@@ -1,7 +1,7 @@
 {
   "i18n.languageName": "Deutsch",
   "i18n.languageNameEnglish": "German",
-  "i18n.category": "Allgemein",
+  "i18n.category": "main",
   "i18n.authors": "@motz0815 @n0chteil",
   "app.name": "Cider",
   "date.format": "${d}.${m}.${y}",
