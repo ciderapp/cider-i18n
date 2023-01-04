@@ -221,9 +221,9 @@
   "term.nowPlaying": "正在播放",
   "term.localFiles": "本地歌曲",
   "home.greeting": {
-    "morning": "Good morning, ${name}",
-    "afternoon": "Good afternoon, ${name}",
-    "evening": "Good evening, ${name}"
+    "morning": "早上好，${name}",
+    "afternoon": "下午好，${name}",
+    "evening": "晚上好，${name}"
   },
   "home.syncFavorites": "同步喜爱艺人",
   "home.syncFavorites.gettingArtists": "正在获取喜爱艺人..",
