@@ -221,6 +221,7 @@
   "term.nowPlaying": "Speelt nu",
   "term.localFiles": "Local Files",
   "home.greeting": {
+    "rise": "Rise and shine, ${name}",
     "morning": "Good morning, ${name}",
     "afternoon": "Good afternoon, ${name}",
     "evening": "Good evening, ${name}"
