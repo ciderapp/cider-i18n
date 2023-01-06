@@ -221,6 +221,7 @@
   "term.nowPlaying": "Зараз грає",
   "term.localFiles": "Локальні файли",
   "home.greeting": {
+    "rise": "Rise and shine, ${name}",
     "morning": "Доброго ранку, ${name}",
     "afternoon": "Гарного дня, ${name}",
     "evening": "Доброго вечора, ${name}"
