@@ -221,6 +221,7 @@
   "term.nowPlaying": "再生中",
   "term.localFiles": "ローカルファイル",
   "home.greeting": {
+    "rise": "Rise and shine, ${name}",
     "morning": "${name}さん、おはようございます",
     "afternoon": "${name}さん、こんにちは",
     "evening": "${name}さん、こんばんは"
