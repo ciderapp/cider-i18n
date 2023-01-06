@@ -221,6 +221,7 @@
   "term.nowPlaying": "지금 재생중",
   "term.localFiles": "로컬 파일",
   "home.greeting": {
+    "rise": "Rise and shine, ${name}",
     "morning": "Good morning, ${name}",
     "afternoon": "Good afternoon, ${name}",
     "evening": "Good evening, ${name}"
