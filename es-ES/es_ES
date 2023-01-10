@@ -220,6 +220,12 @@
   "term.fullscreen": "Pantalla Completa",
   "term.nowPlaying": "Reproduciendo Ahora",
   "term.localFiles": "Archivos locales",
+  "home.greeting": {
+    "rise": "Rise and shine, ${name}",
+    "morning": "Good morning, ${name}",
+    "afternoon": "Good afternoon, ${name}",
+    "evening": "Good evening, ${name}"
+  },
   "home.syncFavorites": "Sincronizar Favoritos",
   "home.syncFavorites.gettingArtists": "Consiguiendo Artistas Favoritos...",
   "home.pinnedItems": "Elementos fijados",

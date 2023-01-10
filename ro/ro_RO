@@ -2,7 +2,7 @@
   "i18n.languageName": "Română",
   "i18n.languageNameEnglish": "Romanian",
   "i18n.category": "main",
-  "i18n.authors": "@SubZeroNexii georgechrc",
+  "i18n.authors": "@SubZeroNexii @georgechrc",
   "app.name": "Cider",
   "date.format": "${d} ${m}, ${y}",
   "dialog.cancel": "Anulare",
@@ -220,6 +220,12 @@
   "term.fullscreen": "Fullscreen",
   "term.nowPlaying": "Now Playing",
   "term.localFiles": "Local Files",
+  "home.greeting": {
+    "rise": "Rise and shine, ${name}",
+    "morning": "Good morning, ${name}",
+    "afternoon": "Good afternoon, ${name}",
+    "evening": "Good evening, ${name}"
+  },
   "home.syncFavorites": "Sync Favorites",
   "home.syncFavorites.gettingArtists": "Getting Favorited Artists...",
   "home.pinnedItems": "Pinned Items",

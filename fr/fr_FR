@@ -111,7 +111,7 @@
   "term.confirm": "Confirmer ?",
   "term.more": "Plus",
   "term.less": "Moins",
-  "term.and": "and",
+  "term.and": "et",
   "term.showMore": "Afficher plus",
   "term.showLess": "Afficher moins",
   "term.topSongs": "Meilleurs titres",
@@ -220,6 +220,12 @@
   "term.fullscreen": "Plein écran",
   "term.nowPlaying": "En cours de lecture",
   "term.localFiles": "Fichiers locaux",
+  "home.greeting": {
+    "rise": "Rise and shine, ${name}",
+    "morning": "Good morning, ${name}",
+    "afternoon": "Good afternoon, ${name}",
+    "evening": "Good evening, ${name}"
+  },
   "home.syncFavorites": "Synchronisation des favoris",
   "home.syncFavorites.gettingArtists": "Obtension des artistes préférés...",
   "home.pinnedItems": "Éléments épinglés",

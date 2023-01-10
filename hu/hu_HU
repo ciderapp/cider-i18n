@@ -220,6 +220,12 @@
   "term.fullscreen": "Teljes képernyő",
   "term.nowPlaying": "Jelenleg lejátszás alatt",
   "term.localFiles": "Helyi fájlok",
+  "home.greeting": {
+    "rise": "Rise and shine, ${name}",
+    "morning": "Good morning, ${name}",
+    "afternoon": "Good afternoon, ${name}",
+    "evening": "Good evening, ${name}"
+  },
   "home.syncFavorites": "Kedvencek szinkronizálása",
   "home.syncFavorites.gettingArtists": "Kedvenc előadók betöltése..",
   "home.pinnedItems": "Kitűzött",

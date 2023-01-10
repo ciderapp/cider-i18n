@@ -220,6 +220,12 @@
   "term.fullscreen": "全螢幕模式",
   "term.nowPlaying": "正在播放",
   "term.localFiles": "本機歌曲",
+  "home.greeting": {
+    "rise": "Rise and shine, ${name}",
+    "morning": "Good morning, ${name}",
+    "afternoon": "Good afternoon, ${name}",
+    "evening": "Good evening, ${name}"
+  },
   "home.syncFavorites": "同步追蹤",
   "home.syncFavorites.gettingArtists": "取得追蹤的藝人列表... ",
   "home.pinnedItems": "置頂項目",

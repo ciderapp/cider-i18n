@@ -220,6 +220,12 @@
   "term.fullscreen": "Πλήρης οθόνη",
   "term.nowPlaying": "Παίζει τώρα",
   "term.localFiles": "Τοπικά αρχεία",
+  "home.greeting": {
+    "rise": "Rise and shine, ${name}",
+    "morning": "Good morning, ${name}",
+    "afternoon": "Good afternoon, ${name}",
+    "evening": "Good evening, ${name}"
+  },
   "home.syncFavorites": "Συγχρονισμός αγαπημένων",
   "home.syncFavorites.gettingArtists": "Λήψη αγαπημένων καλλιτεχνών...",
   "home.pinnedItems": "Καρφιτσωμένα στοιχεία",

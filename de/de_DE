@@ -1,7 +1,7 @@
 {
   "i18n.languageName": "Deutsch",
   "i18n.languageNameEnglish": "German",
-  "i18n.category": "Allgemein",
+  "i18n.category": "main",
   "i18n.authors": "@motz0815 @n0chteil",
   "app.name": "Cider",
   "date.format": "${d}.${m}.${y}",
@@ -220,6 +220,12 @@
   "term.fullscreen": "Vollbild",
   "term.nowPlaying": "Jetzt läuft",
   "term.localFiles": "Lokale Dateien",
+  "home.greeting": {
+    "rise": "Rise and shine, ${name}",
+    "morning": "Good morning, ${name}",
+    "afternoon": "Good afternoon, ${name}",
+    "evening": "Good evening, ${name}"
+  },
   "home.syncFavorites": "Sync Favoriten",
   "home.syncFavorites.gettingArtists": "Favorisierte Künstler werden geladen...",
   "home.pinnedItems": "Angepinnte Objekte",
