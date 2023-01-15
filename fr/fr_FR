@@ -221,7 +221,7 @@
   "term.nowPlaying": "En cours de lecture",
   "term.localFiles": "Fichiers locaux",
   "home.greeting": {
-    "rise": "Rise and shine, ${name}",
+    "rise": "Lève-toi et brille, ${name}",
     "morning": "Bonjour, ${name}",
     "afternoon": "Bon après-midi, ${name}",
     "evening": "Bonsoir, ${name}"
@@ -382,7 +382,7 @@
   "settings.option.general.pagination": "Éléments à afficher par page",
   "settings.option.general.privacy": "Confidentialité",
   "settings.option.general.shareAnalytics": "Share Analytics",
-  "settings.option.general.shareAnalytics.description": "Help us improve Cider by sharing App Analytics and Usage Details",
+  "settings.option.general.shareAnalytics.description": "Aidez-nous à améliorer Cider en partageant les données d'analyse et d'utilisation de l'application",
   "settings.options.general.pagination.description": "Cela détermine le nombre de chansons/albums à afficher initialement pour le défilement infini, ou le nombre de chansons/albums à afficher pour une seule page",
   "settings.description.search": "Rechercher",
   "settings.description.albums": "Albums de la bibliothèque",
