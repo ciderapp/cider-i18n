@@ -506,7 +506,7 @@
   "settings.option.visual.useAdaptiveColors.description": "Change la couleur de l'accent pour l'assortir à la chanson en cours",
   "settings.option.visual.useAdaptiveColors.popup": "Les couleurs adaptatives prendront effet sur la piste suivante.",
   "settings.option.visual.adaptiveColorPercent": "Adaptive Color Percent",
-  "settings.option.visual.playerPosition": "Player Position",
+  "settings.option.visual.playerPosition": "Position du lecteur",
   "settings.option.visual.layoutProfile": "Type de profil de mise en page",
   "settings.option.visual.layoutProfile.description": "Adapte la mise en page de l'application à vos préférences",
   "settings.header.visual.theme": "Thème",
