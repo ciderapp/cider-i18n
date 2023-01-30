@@ -380,7 +380,7 @@
   "settings.option.general.themeUpdateNotification": "Verificação automática de atualizações de temas",
   "settings.option.general.showLovedTracksInline": "Mostrar músicas que gosta \"inline\"",
   "settings.option.general.pagination": "Items to show per page",
-  "settings.option.general.privacy": "Privacy",
+  "settings.option.general.privacy": "Privacidade",
   "settings.option.general.shareAnalytics": "Share Analytics",
   "settings.option.general.shareAnalytics.description": "Help us improve Cider by sharing App Analytics and Usage Details",
   "settings.options.general.pagination.description": "This determines how many songs/albums to show initially for infinite scrolling, or how many songs/albums to show for a single page",
