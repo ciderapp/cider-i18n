@@ -506,7 +506,7 @@
   "settings.option.visual.useAdaptiveColors.description": "강조 색을 현재 노래와 맞춥니다",
   "settings.option.visual.useAdaptiveColors.popup": "적응형 색상을 다음 곡부터 적용됩니다.",
   "settings.option.visual.adaptiveColorPercent": "적응형 색상 비율",
-  "settings.option.visual.playerPosition": "Player Position",
+  "settings.option.visual.playerPosition": "플레이어 위치",
   "settings.option.visual.layoutProfile": "Layout Profile Type",
   "settings.option.visual.layoutProfile.description": "Adjust the layout of the app to your preference",
   "settings.header.visual.theme": "테마",
