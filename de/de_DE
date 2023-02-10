@@ -221,10 +221,10 @@
   "term.nowPlaying": "Jetzt läuft",
   "term.localFiles": "Lokale Dateien",
   "home.greeting": {
-    "rise": "Rise and shine, ${name}",
-    "morning": "Good morning, ${name}",
-    "afternoon": "Good afternoon, ${name}",
-    "evening": "Good evening, ${name}"
+    "rise": "Guten Morgen, ${name}",
+    "morning": "Guten Morgen, ${name}",
+    "afternoon": "Guten Nachmittag, ${name}",
+    "evening": "Guten Abend, ${name}"
   },
   "home.syncFavorites": "Sync Favoriten",
   "home.syncFavorites.gettingArtists": "Favorisierte Künstler werden geladen...",
@@ -527,7 +527,7 @@
   "settings.notyf.visual.theme.updateAvailable": "Für [Themes] {{ theme }} ist ein Update verfügbar",
   "settings.notyf.visual.theme.install.success": "Theme erfolgreich installiert",
   "settings.notyf.visual.theme.install.error": "Theme-Installation fehlgeschlagen",
-  "settings.header.visual.plugin": "Plugin",
+  "settings.header.visual.plugin": "Erweiterung",
   "settings.option.visual.plugin.github.download": "Von GitHub URL installieren",
   "settings.option.visual.plugin.github.explore": "Durchsuche GitHub Plugins",
   "settings.header.visual.plugin.github.page": "Plugins von GitHub",
