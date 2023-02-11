@@ -2,7 +2,7 @@
   "i18n.languageName": "Français (CA)",
   "i18n.languageNameEnglish": "French (CA)",
   "i18n.category": "main",
-  "i18n.authors": "brock#7527",
+  "i18n.authors": "@brock#7527",
   "app.name": "Cider",
   "date.format": "${m} ${d}, ${y}",
   "dialog.cancel": "Annuler",
@@ -220,6 +220,12 @@
   "term.fullscreen": "Fullscreen",
   "term.nowPlaying": "Now Playing",
   "term.localFiles": "Local Files",
+  "home.greeting": {
+    "rise": "Rise and shine, ${name}",
+    "morning": "Good morning, ${name}",
+    "afternoon": "Good afternoon, ${name}",
+    "evening": "Good evening, ${name}"
+  },
   "home.syncFavorites": "Sync Favorites",
   "home.syncFavorites.gettingArtists": "Getting Favorited Artists...",
   "home.pinnedItems": "Pinned Items",

@@ -2,7 +2,7 @@
   "i18n.languageName": "Italiano",
   "i18n.languageNameEnglish": "Italian",
   "i18n.category": "main",
-  "i18n.authors": "ConnectedR",
+  "i18n.authors": "@ConnectedR",
   "app.name": "Cider",
   "date.format": "${d} ${m}, ${y}",
   "dialog.cancel": "Annulla",
@@ -220,6 +220,12 @@
   "term.fullscreen": "Schermo intero",
   "term.nowPlaying": "In riproduzione",
   "term.localFiles": "File locali",
+  "home.greeting": {
+    "rise": "Rise and shine, ${name}",
+    "morning": "Good morning, ${name}",
+    "afternoon": "Good afternoon, ${name}",
+    "evening": "Good evening, ${name}"
+  },
   "home.syncFavorites": "Sincronizza Preferiti",
   "home.syncFavorites.gettingArtists": "Sincronizzazione artisti preferiti in corso...",
   "home.pinnedItems": "Elementi appuntati",
